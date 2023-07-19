@@ -1,20 +1,17 @@
-# provincial-flowers-api
-
-Canadian Provincial Flowers
-
-
+# Canadian Provincial Flowers API
 I built a working live API of the provincial flowers of Canada. This API gives the user access to each province's flower name, when it was established and what colour it is.
 
-Link to project: https://provincial-flowers-api.cyclic.app/
+**Link to project:** https://provincial-flowers-api.cyclic.app/
 
 
-Tech used: HTML, JavaScript, Express, Node, Cyclic.
 
-This was a project so that I could play on the backend using the fundimentals I've learned so far. With this project I was able to creat a live API that can be access anywhere. It gives the user the requested provincial information as an object.
+## How It's Made:
 
+**Tech used:** HTML, CSS, JavaScript, Express, Node, Cyclic
 
-Lessons Learned
+his was a project so that I could play on the backend using the fundimentals I've learned so far. With this project I was able to creat a live API that can be access anywhere. It gives the user the requested provincial information as an object.
 
+## Lessons Learned:
 
 API Developement: I gained experience in developing a backend API using Express that can define routes, handle requests, and send responses. 
 
