@@ -9,7 +9,7 @@ I built a working live API of the provincial flowers of Canada. This API gives t
 
 **Tech used:** HTML, CSS, JavaScript, Express, Node, Cyclic
 
-his was a project so that I could play on the backend using the fundimentals I've learned so far. With this project I was able to creat a live API that can be access anywhere. It gives the user the requested provincial information as an object.
+With this project I was able to creat a live API that can be accessed anywhere. It gives the user the requested provincial information as an object.
 
 ## Lessons Learned:
 
